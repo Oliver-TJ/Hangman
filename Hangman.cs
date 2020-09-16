@@ -6,5 +6,6 @@ namespace DefaultNamespace
         //Change 1
         Console.ReadLine("Bruh");
         Console.ReadLine("Bruh2");
+        Console.ReadLine("Bruh3");
     }
 }
