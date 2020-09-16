@@ -4,5 +4,6 @@ namespace DefaultNamespace
     {
         Console.WriteLine("Test");
         //Change 1
+        Console.ReadLine("Bruh");
     }
 }
