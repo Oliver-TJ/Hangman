@@ -7,9 +7,5 @@ namespace DefaultNamespace
         // Ben - enter the words and allow user to choose
         // Ollie - function that loops through the word to see where letters are
         // Main while loop
-        Console.ReadLine("Bruh");
-        Console.ReadLine("Bruh2");
-        Console.ReadLine("Bruh3");
-        Console.ReadLine("Bruh4");
     }
 }
