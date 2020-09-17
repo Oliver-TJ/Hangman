@@ -8,4 +8,9 @@ namespace DefaultNamespace
         // Ollie - function that loops through the word to see where letters are
         // Main while loop
     }
+    class LetterFunction
+        static void Main(string[] args)
+        {
+        
+        }
 }
