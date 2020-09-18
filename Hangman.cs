@@ -2,15 +2,8 @@ namespace DefaultNamespace
 {
     public class Hangman
     {
-        string[] = wordArray = ['Apple', 'Banana', 'Orange']
-        Console.WriteLine();
-        // Ben - enter the words and allow user to choose
-        // Ollie - function that loops through the word to see where letters are
-        // Main while loop
+        // do not use this hangman, i accidentally created it as the wrong type of project, use hangman2 instead, here is the link 
+        // https://github.com/gtfyds/Hangman2.git
+        // it is in the folder 'HangmanApp1'
     }
-    class LetterFunction
-        static void Main(string[] args)
-        {
-        
-        }
 }
